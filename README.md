@@ -4,7 +4,9 @@ A simple .NET console application to send email messages using Exchange Web Serv
 'Send' - Send an email message
 
 Usage: ExchangeEmailSend.exe Send <options>
+
 <options> available:
+
   -d, --domain=VALUE         The exchange server domain.
   -u, --user=VALUE           The network credential username.
   -p, --password=VALUE       The network credential password.
